@@ -5,7 +5,7 @@ role: 'Developer'
 tech: ['Astro', 'GitHub']
 link: 'https://github.com/yashwanth-yasp/yashwanth-yasp.github.io'
 startDate: 'Feb 2026'
-commits: 20
+commits: 21
 featured: false
 ---
 
@@ -17,11 +17,11 @@ No description available
 
 ### Stats
 
-- **Commits:** 20
+- **Commits:** 21
 - **Stars:** 0
 - **Forks:** 0
 - **Language:** Astro
-- **Last Updated:** 4/26/2026
+- **Last Updated:** 5/3/2026
 
 ### Links
 
